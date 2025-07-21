@@ -22,3 +22,4 @@ L'editor di testo in cui il programmatore dovrà scrivere il codice avrà le fun
 - Flag e note: permettere all'utente di aggiungere delle flag personalizzate (in revisione, da ottimizzare, ecc...) e delle note personali in merito al codice (in un singolo punto o in un intero blocco) come documentazione o dei promemoria
 - Compilazione e/o esecuzione intelligente: il software capisce qual'è il linguaggio e modifica il parametro di compilazione da lanciare per eseguire il codice. *ESEMPIO: se scrivo un programma in python il comando per eseguire il codice sarà diverso rispetto a Java*
 - Modalità lettura: tramite questa funzionalità l'utente non potrà scrivere nel file, ma potrà solo leggerne il contenuto
+- Split file: così da poter dare all'utente la possiblità di lavorare su più file in simultanea
