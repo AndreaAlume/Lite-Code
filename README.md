@@ -21,5 +21,11 @@ L'editor di testo in cui il programmatore dovrà scrivere il codice avrà le fun
 - Breakpoint: dare la possibilità all'utente di debuggare in uno o più punti del codice estraniando il blocco per renderlo comunque funzionante
 - Flag e note: permettere all'utente di aggiungere delle flag personalizzate (in revisione, da ottimizzare, ecc...) e delle note personali in merito al codice (in un singolo punto o in un intero blocco) come documentazione o dei promemoria
 - Compilazione e/o esecuzione intelligente: il software capisce qual'è il linguaggio e modifica il parametro di compilazione da lanciare per eseguire il codice. *ESEMPIO: se scrivo un programma in python il comando per eseguire il codice sarà diverso rispetto a Java*
+- Split view dei file: così da poter dare all'utente la possiblità di lavorare su più file in simultanea
+- Find & replace: dare la possibilità all'utente di ricercare una parola (come il nome di una variabile) e potrerla sostituire.
+
+### Modalità Vim-Like
+
 - Modalità lettura: tramite questa funzionalità l'utente non potrà scrivere nel file, ma potrà solo leggerne il contenuto
-- Split file: così da poter dare all'utente la possiblità di lavorare su più file in simultanea
+- Modalità scrittura: per scrittura del codice
+- Modalità per comandi: per inserire dei comandi come fossero da terminale, verrà scritta una documentazione completa per ognuno di essi
